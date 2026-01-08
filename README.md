@@ -1,6 +1,6 @@
 # tabmod
 
-**tabmodtais a tiny Windows 11 app that let's you toggle tablet mode a.k.a. "Optimize taskbar for touch interactions when this device is used as a tablet" setting.
+**tabmod** is a tiny Windows 11 app that let's you toggle tablet mode a.k.a. "Optimize taskbar for touch interactions when this device is used as a tablet" setting.
 
 ## Why?
 
